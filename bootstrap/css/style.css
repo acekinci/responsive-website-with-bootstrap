@@ -1,0 +1,51 @@
+body {
+  padding-top: 50px;
+  font-family: "Raleway", sans-serif;
+}
+.resim-s {
+  height: 600px;
+}
+.hakkimizda {
+  background-color: #f2f2f2;
+}
+.ayrac {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+.igri {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+.ibeyaz {
+  color: #343a40;
+  position: relative;
+  top: -55px;
+  font-size: 40px;
+  border: 10px solid white;
+  background-color: white;
+}
+.ek > img:hover {
+  opacity: 0.8;
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
+.galeri {
+  background-color: #f2f2f2;
+}
+.figure:hover {
+  opacity: 0.8;
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
